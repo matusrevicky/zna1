@@ -1,11 +1,11 @@
 import unittest
 
 from find_factors import find_factors
-from lattice_of_fuzzy_operator import lattice
-from naive_concepts import all_repeat, for_given_combinations_do_fuzzy_implication
-from next_neighbours import nextNeighbours
-from object_intersection import o_intersection
-from ricesiff import fuzzyfy, ricesniff
+from lattice import lattice
+from naive_concepts import all_repeat, for_given_combinations_do_fuzzy_implication, naive_formal_concepts
+from next_neighbours import next_neighbours
+from object_intersection import object_intersection
+from rice_siff import fuzzyfy, rice_siff
 from utils.base_methods import load_fuzzy
 
 
@@ -24,9 +24,9 @@ class UserModelCase(unittest.TestCase):
                     ((1, 1, 0.5), (0.5, 0.5, 0.5, 1.0, 0.5)),
                     ((1, 1, 1.0), (0.0, 0.0, 0.5, 0.5, 0.5))}
 
+        possible_Y_values = [0.0, 0.5, 1.0]
         data = load_fuzzy("data_files/data_from_article.csv")
-        possible_values = all_repeat([0.0, 0.5, 1.0], len(data.columns))
-        formal_concepts = for_given_combinations_do_fuzzy_implication(data, possible_values)
+        formal_concepts = naive_formal_concepts(data, possible_Y_values)
         self.assertSetEqual(formal_concepts, expected)
 
     def test_lattice_of_fuzzy_operator(self):
@@ -57,8 +57,7 @@ class UserModelCase(unittest.TestCase):
 
         data = load_fuzzy("data_files/data_from_article.csv")
         possible_Y_val = [0, 0.5, 1]
-        Y = [1 for i in range(len(data.columns))]
-        concepts1, lattice1 = lattice(data, Y, possible_Y_val)
+        concepts1, lattice1 = lattice(data, possible_Y_val)
 
         self.assertDictEqual(lattice1, expected_lattice)
         self.assertSetEqual(concepts1, expected_concepts)
@@ -135,7 +134,7 @@ class UserModelCase(unittest.TestCase):
                            ((1, 1, 1, 1, 1, 1, 1), (0, 0, 0, 0, 1, 0, 0, 0, 0)))}
 
         data = load_fuzzy("data_files/intersection.csv")
-        vertices, edges = nextNeighbours(data)
+        vertices, edges = next_neighbours(data)
         self.assertSetEqual(vertices, expected_vertices)
         self.assertSetEqual(edges, expected_edges)
 
@@ -158,7 +157,7 @@ class UserModelCase(unittest.TestCase):
                     ((0, 0, 0, 0, 0, 0, 1), (1, 0, 0, 0, 1, 0, 1, 0, 1))]
 
         data = load_fuzzy("data_files/intersection.csv")
-        result = o_intersection(data)
+        result = object_intersection(data)
         self.assertListEqual(result, expected)
 
     def test_find_factors(self):
@@ -258,7 +257,7 @@ class UserModelCase(unittest.TestCase):
 
         data = load_fuzzy("data_files/ziaci.csv")
         data = data.applymap(fuzzyfy)
-        result = ricesniff(data)
+        result = rice_siff(data)
 
         sortset_expected = set()
         for expect in expected:

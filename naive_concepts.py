@@ -24,12 +24,19 @@ def for_given_combinations_do_fuzzy_implication(df, possible_values):
     return set(formal_concepts)
 
 
+def naive_formal_concepts(df, possible_Y_values):
+    possible_values = all_repeat(possible_Y_values, len(df.columns))
+    formal_concepts = for_given_combinations_do_fuzzy_implication(df, possible_values)
+    return formal_concepts
+
+
 if __name__ == '__main__':
     pp = pprint.PrettyPrinter(indent=1, sort_dicts=False)
     data = load_fuzzy("data_files/data_from_article.csv")
     # naivne riesenie
-    possible_values = all_repeat([0.0, 0.5, 1.0], len(data.columns))
-    formal_concepts = for_given_combinations_do_fuzzy_implication(data, possible_values)
+    possible_Y_values = [0.0, 0.5, 1.0]
+    formal_concepts = naive_formal_concepts(data, possible_Y_values)
+
     pp.pprint(formal_concepts)
 
     #  Pre vsetky moznosti sa spravi fuzzy implikacia

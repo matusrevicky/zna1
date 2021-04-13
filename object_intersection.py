@@ -36,7 +36,7 @@ def make_closure_df_attributes(df, atribute_values):
 #             C.add(formal_concept_C)
 #     return C
 
-def o_intersection(df):
+def object_intersection(df):
     #  start ****** zodpoveda riadku C:={(M',M)}
     C = []
     # musim si pripravit pole samych jednotiek o velkosti poctu atributov
@@ -67,8 +67,8 @@ def o_intersection(df):
 if __name__ == '__main__':
     pp = pprint.PrettyPrinter(indent=1, sort_dicts=False)
     data = load_fuzzy("data_files/intersection.csv")
-    result = o_intersection(data)
-    pp.pprint(o_intersection(data))
+    result = object_intersection(data)
+    pp.pprint(object_intersection(data))
 
     # for (X, Y) in result:
     #     for idx, i in enumerate(X):

@@ -19,7 +19,7 @@ def replace_one_zero_in_y(df, Y, y):
     return Y_copy
 
 
-def nextNeighbours(df):
+def next_neighbours(df):
     # C:= {(G,G')}
     C = set()
     only_ones_rows = [1 for i in range(len(df.index))]
@@ -108,7 +108,7 @@ if __name__ == '__main__':
     pp = pprint.PrettyPrinter(indent=1, sort_dicts=False)
     data = load_fuzzy("data_files/intersection.csv")
 
-    vertices, edges = nextNeighbours(data)
+    vertices, edges = next_neighbours(data)
     print("nodes")
     pp.pprint(vertices)
     print("edges")
