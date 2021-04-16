@@ -43,3 +43,6 @@ venv\Scripts\activate
 * **naive_concepts.py**,**lattice.py**,**object_intersection.py**,**next_neighbours.py**,**find_factors.py**,**rice_siff.py** - all of these files have main, run using `python lattice.py` 
  
 * **tests.py** - unit tested on examples from articles, takes cca. 2 minutes
+
+## Results
+View results folder. You can find there results from udemy courses dataset. 

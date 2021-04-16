@@ -17,15 +17,16 @@ def select_attribute_that_maximazes_U(df, D, possible_fuzzy_values, U):
     # vyberie sa to D, ktore po uzavere pokryje najviac zatial nepokrytych prvkov
     maximum = -1000
     for stuff in range(1, len(possible_fuzzy_values)):
-        for idx, element in enumerate(D):
+        for idx in range(len(D)):
             D_copy = copy.deepcopy(D)
             set_to_maximaze = set()
             index_of_old_value = possible_fuzzy_values.index(D[idx])
             if index_of_old_value + stuff < len(possible_fuzzy_values):
                 D_copy[idx] = possible_fuzzy_values[index_of_old_value + stuff]
+                # print("D_copy", D_copy)
                 D_down = arrowDown(df, D_copy)
                 D_down_up = arrowUp(df, D_down)
-                # print("D_copy", D_copy)
+
 
                 for i, j in U:
                     if df.iloc[i][j] <= fuzzy_and(D_down[i], D_down_up[j]):
@@ -43,9 +44,10 @@ def select_attribute_that_maximazes_U(df, D, possible_fuzzy_values, U):
 # Prejdem cely dataframe a vratim suradnice vsetkych nenulovych bodov
 def coordinates_of_non_zero(df):
     set_of_coordinates = set()
-    for i, row in enumerate(df.index):
-        for j, column in enumerate(df.columns):
-            value = df.loc[row][column]
+    for i in range(len(df)):
+        for j in range(len(df.columns)):
+            value = df.iloc[i][j]
+            # print(i, j, 'val', type(value))
             if value != 0:
                 set_of_coordinates.add((i, j))
     return set_of_coordinates

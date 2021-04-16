@@ -1,5 +1,5 @@
 import pandas as pd
-
+import numpy as np
 
 def load_fuzzy(csv_file_path):
     df = pd.read_csv(csv_file_path, index_col=0)
@@ -16,13 +16,14 @@ def fuzzy_and(a, b):
 
 # pre dane riadky, robim implikacie a hladam minimum z tychto implikacii
 def arrowUp(df, minimum_for_every_row):
+    # df['new_col'] = np.array(minimum_for_every_row)
     final_min_array = []
     minimum = 1000
-    for j, column in enumerate(df.columns):
+    for j in range(len(df.columns)):
         # print('column index:', column)
-        for i, row in enumerate(df.index):
+        for i in range(len(df.index)):
             a = minimum_for_every_row[i]
-            b = df.loc[row][column]
+            b = df.iloc[i][j]
             after_implication = fuzzy_implication(a, b)
             if after_implication < minimum:
                 minimum = after_implication
@@ -42,12 +43,14 @@ def arrowDown(df, treshold_array):
 
     list = []
     # pre kazdy riadok sprav implikacie a vyber minimum
-    for i, row in enumerate(df.index):
+    for i in range(len(df.index)):
         minimum = 1000
         # print('row index', row)
-        for j, column in enumerate(df.columns):
+        for j in range(len(df.columns)):
             a = treshold_array[j]
-            b = df.loc[row][column]
+            b = df.iloc[i][j]
+            # if i > 300:
+            #     print("b",  b)
             after_implication = fuzzy_implication(a, b)
             if after_implication < minimum:
                 minimum = after_implication
