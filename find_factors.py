@@ -18,6 +18,7 @@ def select_attribute_that_maximazes_U(df, D, possible_fuzzy_values, U):
     maximum = -1000
     for stuff in range(1, len(possible_fuzzy_values)):
         for idx in range(len(D)):
+            # print("idx",idx)
             D_copy = copy.deepcopy(D)
             set_to_maximaze = set()
             index_of_old_value = possible_fuzzy_values.index(D[idx])

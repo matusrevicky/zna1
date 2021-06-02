@@ -28,9 +28,9 @@ def load_and_change_to_fuzzy(csv_file_name, amount_of_rows=3):
         elif i == 'level':
             data[i] = data[i].map(lambda x: fuzify_level(x)).astype('float64')
         else:
-            # max = data[i].max()
-            # data[i] = data[i].map(lambda x: fuzify(x, max)).astype('float64')
-            data[i] = pd.qcut(data[i], q=3, labels=[0, 0.5, 1]).astype('float64')
+            max = data[i].max()
+            data[i] = data[i].map(lambda x: fuzify(x, max)).astype('float64')
+            # data[i] = pd.qcut(data[i], q=3, labels=[0, 0.5, 1]).astype('float64')
 
     data.rename({'price': 'is_price_high', 'num_subscribers': 'is_many_subscribers', 'num_reviews': 'is_many_reviews',
                  'num_lectures': 'is_many_lectures', 'content_duration': 'is_content_long'}, axis=1, inplace=True)
@@ -109,7 +109,7 @@ def lattice_on_my_dataset_nice_print(data, possible_Y_val, csv_file_name, rows):
                              )
     concepts, lattice_to_draw = lattice(data, possible_Y_val)
 
-    f = open("results/lattice_result.txt", "a", encoding='UTF-8')
+    f = open("results/lattice_result_fuzzyfied.txt", "a", encoding='UTF-8')
 
     full_concepts = set()
     for con in concepts:
@@ -147,7 +147,7 @@ if __name__ == '__main__':
     Y = [1 for i in range(len(data.columns))]
 
     # uncomment to run cca. 431.7125794887543 seconds
-    # factors_on_my_dataset_nice_print(data, possible_Y_val, csv_name, rows)
+    factors_on_my_dataset_nice_print(data, possible_Y_val, csv_name, rows)
 
     # uncomment to run cca. 7000 seconds
     # lattice_on_my_dataset_nice_print(data, possible_Y_val, csv_name, rows)

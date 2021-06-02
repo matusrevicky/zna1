@@ -5,6 +5,7 @@ import numpy as np
 
 from utils.base_methods import load_fuzzy
 
+
 # pre dane riadky, hladam minimum pre kazdy stlpec
 def arrowUpRS(df, rowsId):
     final_min_array = []
@@ -93,6 +94,14 @@ def multiUnion(df, E):
     return resultset
 
 
+# Premenna D je mnozina zhlukov-konceptov v aktualnej iteracii,C je zjednote-nie vsetkych doterajsıch iteraciı D.
+# Cıslom je najmensia vzdialenost’dvojıc z D.Mnozina E obsahuje ”hrany“ – dvojice zhlukov z D, ktorych vzdialenost’
+# je pravema premenna V obsahuje ”vrcholy“ – konce takychto hran. Prvky mnoziny N su nove zhluky. Nova iteracia D
+# nahradzuje ”stare“ zhluky z V ”novymi“ z N.
+#
+# Vol’ne povedane, v kazdom kroku spajame tie dva zhluky, ktore su
+# najblizsie (v zmysle nasej metriky) – z novej iteracie ich vyhodıme a namiesto nich donej pridame ich spojenie
+# t. j. uzaver ich zjednotenia.
 def rice_siff(df):
     D = set()
     for row in df.index:
@@ -106,8 +115,10 @@ def rice_siff(df):
         C = C.union(N)
     return C
 
+
 def fuzzyfy(x):
-    return (x+3)/6
+    return (x + 3) / 6
+
 
 if __name__ == "__main__":
     # data = load_and_change_to_fuzzy(amount_of_rows=3)
@@ -122,9 +133,11 @@ if __name__ == "__main__":
     result = rice_siff(data)
     print("Vysledok Rice-Siff algoritmu je mnozina vyslednych zhlukov {")
     for zhluk in result:
-        print(zhluk,',')
+        print(zhluk, ',')
     print("}")
 
+    # Kazdy student oznacil vztah ku kazdemu studentovi na stupnici 7 hodnot
+    # Ako vysledok tak budeme ocakavat koncepty, t. j. zhluky osob, ktore su povazovane inymi osobami za podobne.
     # Vysledok Rice-Siff algoritmu je mnozina vyslednych zhlukov {
     # (949504, 655300, 474212, 1233350, 388164, 572744, 680044, 1191504, 381330, 866584, 545918) ,
     # (949504, 680044) ,

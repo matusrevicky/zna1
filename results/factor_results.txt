@@ -1,0 +1,1009 @@
+Total amount of concepts using find factors: 6
+is_price_high: 0.0, is_many_subscribers: 1.0, is_many_reviews: 0.0, is_many_lectures: 0.0, level: 0.0, is_content_long: 0.0,
+is_price_high: 1.0, is_many_subscribers: 0.0, is_many_reviews: 0.0, is_many_lectures: 1.0, level: 0.0, is_content_long: 0.5,
+is_price_high: 0.0, is_many_subscribers: 0.0, is_many_reviews: 0.0, is_many_lectures: 0.0, level: 1.0, is_content_long: 0.0,
+is_price_high: 1.0, is_many_subscribers: 0.0, is_many_reviews: 0.0, is_many_lectures: 0.0, level: 0.0, is_content_long: 0.0,
+is_price_high: 0.0, is_many_subscribers: 0.0, is_many_reviews: 0.0, is_many_lectures: 0.0, level: 0.0, is_content_long: 1.0,
+is_price_high: 0.0, is_many_subscribers: 0.0, is_many_reviews: 1.0, is_many_lectures: 0.0, level: 0.0, is_content_long: 0.0,
+
+is_price_high: 0.0, is_many_subscribers: 1.0, is_many_reviews: 0.0, is_many_lectures: 0.0, level: 0.0, is_content_long: 0.0,
+amount of rows 5
+861  Free Beginner Electric Guitar Lessons 0.5
+1262  Quickstart AngularJS 0.5
+1338  Web Development By Doing: HTML / CSS From Scratch 0.5
+1339  Build Your First Website in 1 Week with HTML5 and CSS3 0.5
+1458  Coding for Entrepreneurs Basic 1.0
+
+is_price_high: 1.0, is_many_subscribers: 0.0, is_many_reviews: 0.0, is_many_lectures: 1.0, level: 0.0, is_content_long: 0.5,
+amount of rows 3
+1218  Ultimate Web Developer Course Build 10 Websites from Scratch 0.5
+1304  Back to School Web Development and Programming Bundle 1.0
+1708  Spring 4 Mastercourse: Covers Annotation & XML Configuration 0.5
+
+is_price_high: 0.0, is_many_subscribers: 0.0, is_many_reviews: 0.0, is_many_lectures: 0.0, level: 1.0, is_content_long: 0.0,
+amount of rows 479
+0  Financial Modeling for Business Analysts and Consultants 0.5
+1  How To Maximize Your Profits Trading Options 0.5
+3  Options Trading 3 : Advanced Stock Profit and Success Method 1
+4  Short Selling: Learn To Sell Stocks Before The Fall 0.5
+8  Create Your Own Hedge Fund: Trade Stocks Like A Fund Manager 0.5
+11  Options Trading Stocks: Proven Toolbox For Financial Success 0.5
+14  Options Trading - How to Win with Weekly Options 0.5
+15  How I Learned Stock Trading (and How You Can Too) 1
+16  Trading Inside Bars - Master 1 Easy Pattern To Be Successful 0.5
+19  How to Consistently Win Trading Stocks in 30 Days or Less 0.5
+20  A Beginner's Guide to Quantopian Futures API 0.5
+26  Learn How to Set Up an Incubator Hedge Fund - Step-by-Step 1
+30  Forex Trading - Advanced Fundamental Analysis 0.5
+34  Practical Accounts APP Overview 0.5
+44  Introduction to Financial Modeling 0.5
+45  Option Spreads and Credit Spreads Bundle 1
+46  Stock market Investing Encyclopedia: How to invest in stocks 0.5
+47  Learn the basics of preparing accounting statements 0.5
+48  Elliott Wave -Forex Trading With The Elliott Wave Theory 1
+50  Excel functions to analyze and visualize data 0.5
+57  Learn how to double your Forex Trading Account in one trade 0.5
+59  Python Algo Trading: FX Trading with Oanda 0.5
+63  Basics of Mutual Funds for CA / CMA / CS / CFA Exams 0.5
+71  Use the Magic Multiple Moving Average Forex Trading system 0.5
+73  TRADING PSYCHOLOGY: Trading Mindset Mastery 0.5
+77  TechniTrader Leading Hybrid Indicator Trading 0.5
+78  Master Iron Condors - Double the credit for half the risk 1.0
+79  Basics of investing in Mutual Funds 0.5
+80  How to Fund your Million Dollar Idea: Equity, Debt, Unfund 0.5
+81  Binary Options Course - Level 2 0.5
+83  Introduction to Futures Trading and Live Trade Demonstration 1.0
+84  Preparation of Consolidated Financial Statements (Basic) 0.5
+85  Stock Options Trades Using Interactive Brokers 0.5
+89  CREDIT SPREAD SURGERY - Bear Call and Bull Put Mastery  0.5
+91  Advanced Stock Options for Serious Equity Investors! 1
+93  Double your Forex Account using the MAGIC MA trading robot 0.5
+94  Advanced Accounting for Investment Banking 0.5
+99  Read financial statements like a pro 0.5
+100  Forex Trading: The High ROI Forex Trading End of Day Course 0.5
+105  Candlestick Analysis For Professional Traders 1
+106  Hands-on Financial Modeling (With 6 Excel Templates) 0.5
+110  Accounting Made Easy 2 0.5
+111  Bitcoin: el futuro del dinero, hoy 0.5
+113  Como hacer empresa en 10 sesiones prácticas 0.5
+117  Technical Analysis - A practical approach for trade entry 1.0
+118  Stock Market for Beginners - Complete Starter Toolkit 0.5
+120  Forex: What's a Trend and When it is Strong and Reliable 0.5
+121  Volatility Trading Analysis with R 1.0
+128  Working Capital Management for CA / CFA / CPA Exams 0.5
+130  Advanced Options Concepts - Probability, Greeks, Simulation 0.5
+132  My Forex Strategy that win consistently over and over 0.5
+138  Learn Options on Futures for Hedging Options and Stocks 1.0
+149  [Value Investing] Where White People Keep Their Money 1
+157  Corporate Internal Controls and Fraud Controls 0.5
+163  How to trade options 0.5
+164  Coaching Course:Investment Analysis for your clients 0.5
+165  Harnessing the Power of Growth Stocks 0.5
+173  Trading: High-ROI Trading 0.5
+175  The Advantages of ETF Options and Index Options Trading 0.5
+178  Introduction to the economics of public services regulation 0.5
+179  Accounting Standard 3 - An Analysis 0.5
+183  Best Practices in Corporate Budgeting 0.5
+184  Financial Statement Auditing Cycles 0.5
+186  Building a Balanced Scorecard 0.5
+187  Options Trading Foundation: Your journey to competency... 0.5
+189  TRADING: 5K CHALLENGE 0.5
+191  Visualizing Data 0.5
+192  Forex Trading System: Correlation EUR/GBP vs GBP/USD 0.5
+196  Trend Following Stocks: A Complete Trading System 1
+202  How to invest in Russian equity market 0.5
+206  Advanced Technical Analysis PART1! 0.5
+208  Introduction to Accounting - Analyzing Financial Statements 0.5
+209  Credit Risk Analysis 0.5
+210  Fund Flow Analysis for CA / CFA / CPA Exams 0.5
+213  Essential Options: Strategies for Mastering the Stock Market 0.5
+216  Fundraising Success: The Art & Science of Major Gifts 0.5
+217  Smart Trading Techniques for Safe & Consistent Weekly Result 0.5
+218  Technical Trading and Investing Made Easy 0.5
+220  Collection of Advanced Options concepts for Options traders 1.0
+224  Short Straddles - Exploit Earnings Option Volatility Crush 1.0
+226  Intro to Financial Statement Audits 0.5
+227  System of Asset Management for Professionals (SAMP) 1.0
+232  Strategy layout and Backtesting 1
+238  Trading Intradiario basado en Precio y Volumen 0.5
+243  Eu Funding: Module 2 - Introduction to Horizon 2020 0.5
+246  Master Calendar Spreads with this live trade on Gold (GLD) 1.0
+249  Accounting and the Triple Bottom Line 0.5
+259  Price Action Gap Trading Strategies 0.5
+260  Basics of Private Equity 0.5
+266  Day Trading: High ROI Day Trading  0.5
+268  Effective Debt Collection Strategies 0.5
+269  Capital Structuring Techiques for CA / CFA / CPA Exams 0.5
+273  Learn to Trade With Fibonacci Tools 0.5
+279  Advanced Butterfly Spreads for Options Income Strategies 1.0
+282  Advanced Options Trading Course 0.5
+286  Financial and Business Simulation with Microsoft Excel 1.0
+288  The Truths about (in)secure Retirement 0.5
+291  Learn to trade Candlestick Patterns 0.5
+296  Planning and Executing a Financial Statement Audit 0.5
+297  The Latest Updates 2016 Financial Accounting Standards Board 0.5
+304  Backspreads, Diagonals and Butterflies - Advanced Strategies 1.0
+305  Weekly Options and study of Options expiration dynamics 1.0
+307  Hedge Fund Trading Systems Part Two - Stocks & ETFs 1
+308  Stock Market Option Trading: How Sell Options For Premium 0.5
+309  Straddles and Strangles - Volatility moves in any direction 1.0
+311  Options Spreads Bundle-  the heart of Options Trading 0.5
+313  Financial Modeling for Professionals in 1 Day! 0.5
+318  Analysis and Evaluation of Economic Feasibility of Projects 0.5
+324  Learn to Trade Forex Naked Price Action Big Shadow Trade 0.5
+332  Learn the Forex Naked Price Action Pogo Trade 0.5
+333  Budget preparation for an EU project proposal 0.5
+334  Don't Let Your Customers Run Your Business 0.5
+335  Working Capital Management for Entrepreneurs 1.0
+343  high swing - كورس لتعليم جميع مراحل احتراف تداول الفوركس 0.5
+346  La costruzione del budget di una proposta comunitaria 0.5
+348  beginning accounting 0.5
+350  Learn to trade using technical analysis 0.5
+354  Buying Call and Put Options - Options beginner strategies 0.5
+355  Forex - Catch the Big Market Moves in Forex 0.5
+356  Intermediate Accounting 1: Easy. Fast. Simple! 0.5
+357  Global Macro Investing - Take Control Of The World's Markets 0.5
+363  株式投資で本当のテクニカル分析ができるようになる 0.5
+370  Practical Accounts Training A 0.5
+371  2. Principles of Simple Interest - advanced problems 0.5
+375  Manual Bookkeeping 0.5
+377  Financial Modelling in Excel Step by Step 0.5
+391  Advance Technical Analysis 1.0
+392  The Everyday Investor: Building Wealth with Venture Capital 0.5
+395  Simple Options Trading System 0.5
+399  Learn To Trade The Forex Naked Price Action Acapulco Trade 0.5
+400  Master The Psychology of Forex & Binary Options Trading 0.5
+405  Forex:Trade Management & Psychology 0.5
+407  How to trade in the Forex market 0.5
+408  Bookkeeping Practicals with Software 0.5
+411  Technical Charting 0.5
+412  Profits Turbo 0.5
+416  'Geometry Of Chance strategy of defeating the roulette." 0.5
+421  Formação de preços em serviços 0.5
+422  Guía práctica para comprar acciones en la Bolsa de USA 0.5
+426  3 documentos clave para administrar tu empresa con éxito 0.5
+437  Finanzielle Unabhängigkeit-3 Millionär werden mit Immobilien 1.0
+439  Optimize! Make Best Decisions with Microsoft Excel 1.0
+444  Understanding Financial Derivatives 0.5
+446  The Fast Route to a Faster Financial Close 0.5
+448  Depreciation, Amortization and Depletion 0.5
+449  Series 7: Intermediate Options 0.5
+457  Core Financial Statement Concepts 0.5
+460  ≪虎の巻≫証券取引の「税金のお悩み」解消 0.5
+462  TRADING FOR A LIVING: Trading Full-Time Transition Guide 0.5
+465  Trading: From Wall Street to Your Street 0.5
+467  Trading Robot Forex Programs in Your Sleep in Live Examples! 1
+470  Accounting 102: Guide to Business Accounting 0.5
+471  Advanced Finance and Accounting for Startups 0.5
+474  Professional Forex strategy 1.0
+484  Forex Trading: Strategia Correlazione EUR/GBP vs GBP/USD 0.5
+485  Finanzielle Unabhängigkeit-2 Millionär werden mit Investment 0.5
+492  Step by step guide to understand how business perform 0.5
+495  An Introduction: MT4 Email, Sound, Notification Forex Alerts 0.5
+498  Learn to trade Chart Patterns 0.5
+501  Typographic Logos: Typography and Lettering for Logo Design 0.5
+502  Triangulated Bird: Origami Styled Bird in Adobe Illustrator 0.5
+513  Illustrated Logo Design 0.5
+515  Adobe InDesign CC Advanced 1.0
+531  Master App Icon Design for iPhone (IOS) & Android Devices 0.5
+533  Mastering advance Photoshop 0.5
+543  Most Wanted Flat Design Techniques #2: Hipster Businessman 0.5
+559  Learn Corel x7 Like a Pro 0.5
+564  Conviértete en un experto de photoshop cc naked series 0.5
+577  InDesign: Diseño de proyectos paso a paso 0.5
+578  Adobe Illustrator CC 0.5
+581  Photoshop Workflow - Manipulação de imagem para Publicidade 1
+585  Convert Image to Vector in Adobe illustrator 0.5
+596  Photoshop - Tratamento de pele profissional 0.5
+597  Indesign - Para quem quer trabalhar com Design Gráfico 0.5
+601  Photoshop Avançado - Pós Produção e fusão com 3D 1
+604  Mastering Photoshop: From Beginner to Industry Professional 0.5
+605  Most Wanted Flat Design Techniques #1: Desert Island 0.5
+608  Advanced Features in Adobe Illustrator 0.5
+627  Learn Photoshop Actions - Save time with repetitive tasks 0.5
+629  Learn 2D Cell Shading in Photoshop 0.5
+630  Quickly Batch Export & Package Logo Files for Clients 0.5
+632  Creating an animated greeting card via Google Slides 0.5
+633  Most Wanted Flat Design Techniques #3: Office Space 0.5
+655  Photoshop - Automatização com Adobe Script 0.5
+661  Easy Typography Tips to Beautify and Strengthen Your Work 0.5
+665  Illustrator CC 2016 Power Workshops (Deutsch) 0.5
+667  Master Terrazzo: Creating Vector Tiles with Adobe Illustrati 0.5
+668  Paint atmospheric sunset with soft pastel! 0.5
+672  Turn your animated greeting card carousel into a music video 0.5
+682  Create Professional Character Designs in Photoshop 0.5
+691  Create Beveled Lettering in Adobe Illustrator 0.5
+694  Mastering Text Animation in After Effect 0.5
+696  Design Efficiency Intensive 0.5
+697  Adobe Photoshop CC for Photographers Advanced 1.0
+699  Events Promotion Design 0.5
+703  Create Beautiful Image Maps for Your Website 0.5
+704  T-Shirt Design Workshop 02: Mixed Media Design 0.5
+705  How to Draw Pinups and Sexy Women 0.5
+708  Creating animation puzzles with Google Slides 0.5
+709  Designing With Halftones: Create a Dot Pattern Portrait! 0.5
+712  PHOTOSHOP: Dessiner l'affiche du film Rogue One en style BD 0.5
+713  Débuter avec KRITA 0.5
+722  Practical Font Design 0.5
+724  Converting Type to Outlines in Adobe InDesign 0.5
+727  Photoshop: 5 Practical Techniques to Improve Your Skills 0.5
+731  Photoshop - Revelando os segredos das Fusões 1.0
+735  The most popular techniques in Photoshop 0.5
+738  15  Motion Graphic Elements in After Effect (Series 2) 0.5
+741  How To Design A Fortune 500 Logo in Illustrator 0.5
+765  Most Wanted Flat Design Techniques 0.5
+767  Mashup - Transform a scanned sketch into a digital painting 0.5
+769  Making Killer Images in Photoshop that WOW Clients! 0.5
+770  Simple Photoshop CC: Smart Objects 0.5
+772  Photoshop　中級者、上級者がプロになるために最後に学ぶ「超絶技巧」テクニック 0.5
+778  Learn Drawing and Painting a Landscape with Oil Colours 0.5
+779  Enhance your chroma key with an animated Slides background 0.5
+781  Typographic Poster Design - From Sketch to Vector 0.5
+783  Adobe Illustrator Creative Cloud:  Mastering the Upgrades 0.5
+791  How to Fix Common Branding Mistakes, for Graphic Designers 0.5
+793  Character Design 0.5
+800  eBook Cover Design 0.5
+808  Pentatonic Scale Crash Course for Bass Guitar 0.5
+809  Learn Travis Picking From Scratch 0.5
+813  Blues Guitar Lessons - From Texas To Carolina 0.5
+835  Percussive Fingerstyle Guitar 0.5
+839  Guitar Chord Riot! Learn to Play Guitar Like a Guitar Jedi 0.5
+843  Piano With Willie: Blues n' Boogie Vol. 2 0.5
+845  Take your double bass drum technique to the next level 0.5
+847  Learn 3 - All Time A R Rahman Hits on Carnatic Flute! 0.5
+849  Guitar Fretboard Secrets 0.5
+854  How to play Djembe, Drums & Rhythm. Level 2 0.5
+862  101 Awesome Rockabilly Guitar Licks 0.5
+868  Discover Classical Guitar Level 2    0.5
+871  How To Play Blues Guitar - Broonzy & McGhee Blues Lessons 0.5
+877  Classical Guitar Essentials - The Basics Part 2 0.5
+884  Piano With Willie: Blues n' Boogie Vol. 1 0.5
+887  Play Piano 5: Improvise on Misty Eb Key Runs & 2-5 Chords 1.0
+890  Jazz Guitar Tips, Tricks and Licks 0.5
+895  Gospel Piano Essentials 0.5
+900  Country Guitar Fundamentals 0.5
+907  101 Blues riffs - learn how the harmonica superstars do it 0.5
+911  Modern Rock Guitar Techniques 0.5
+912  Guitar Super System Level 1 0.5
+913  Guitar Super System Level 2 1.0
+917  #12 Hand Coordination: Let your Hands dance with Ballad 9 0.5
+928  The Circle of Fifths for Guitarists 0.5
+931  Master Class Piano Techniques: Tips To EZ Coordinate 2 Hands 0.5
+934  5 Exotic Guitar Scales and How to Use Them Effectively 0.5
+936  #10 Hand Coordination - Transfer Chord Ballad 9 - C & Bb Key 0.5
+937  Guitar Chord Mastery!Turn Your Brain Into A Chord Encyclopia 0.5
+940  #5  Piano Hand Coordination:  Piano Runs in 2 Beats Eb Key 0.5
+941  Modern Country Guitar: Technique Booster 0.5
+943  #4 Piano Hand Coordination: Fun Piano Runs in 2 Beats C Key 0.5
+949  The Allman Brothers Guitar Roots And Techniques 0.5
+950  Blues Guitar Fundamentals 0.5
+951  #6 Piano Hand Coordination: Play Open 10 Ballad to 9/4 Song 0.5
+952  #7 Piano Hand Coordination: Play Piano Runs in 3 Beats 9/4 0.5
+954  Guitar Lessons - Blind Blake - King Of Ragtime Blues Guitar 1.0
+957  Didgeridoo - from zero to HERO! Part Two. Intermediate. 0.5
+958  Acoustic Blues Guitar Lessons 0.5
+961  Acoustic Blues Guitar Lessons 0.5
+968  Guitar Lessons - Soloing With Arpeggios - Essential Guide  0.5
+969  Piano With Willie: Blues n' Boogie Vol. 3 0.5
+976  Guitar Solo - Theory and Improvisation Lessons 0.5
+977  Bluegrass Guitar Essentials: Webisodes 3 & 4 0.5
+978  Bluegrass Guitar Essentials: Webisodes 5 & 6 0.5
+982  Learn to play tunes by ear on harmonica - no written music 0.5
+984  Piano With Willie: Tritones & Phat Chords 0.5
+986  Piano Lessons For The Hip Hop Fan 0.5
+987  Bluegrass Guitar Essentials: Webisodes 9 & 10 0.5
+990  Learn Piano Online-A Quiet Solace Piano Solo 0.5
+991  Bluegrass Guitar Essentials: Webisodes 7 & 8 0.5
+992  The Art of the Blues Shuffle - A Guitarist's Guide 0.5
+993  Learn Piano Online-Ambiance Piano Solo 0.5
+995  The Theory & Practice of Modes on the Guitar 0.5
+999  Curso de Bateria - Explorando Diferentes Divisões 0.5
+1004  Aprende el acordeón de oído y con técnica –Nivel Intermedio– 0.5
+1011  Learn to Play Tarrega, Bach, and Sor on Classical Guitar 0.5
+1014  Acoustic Blues Guitar Lessons 0.5
+1018  Master Flute Playing: Intermediate Instruction Made Simple! 0.5
+1024  Guitar Lessons - 50 Essential Fast Legato Licks 0.5
+1037  Master the Tuba - Intermediate Instruction Made Simple! 0.5
+1038  Master the Euphonium with Simple, Intermediate Instruction! 0.5
+1043  Curso de batería online de Patricio Iglesias (Santa Sabina) 0.5
+1044  Classical Guitar Master Class: 'Alman  " 0.5
+1047  Piano With Willie: Jazz & Gospel Exercises 0.5
+1048  Bending the blue notes to give you killer sound on harmonica 0.5
+1063  Trumpet Solos: Learn how to Perform Three Fun, Unique Pieces 0.5
+1064  Sax Solos: Learn how to Perform Three Fun and Unique Pieces! 0.5
+1070  Back In Black the AC/DC Classic Rock Track 0.5
+1080  Master Oboe Playing: Intermediate Instruction Made Simple! 0.5
+1082  Guitar Lessons - Economy Picking Essentials 0.5
+1083  Blues Guitar Lessons - Blues Guitar - Robert Johnson 0.5
+1088  Didgeridoo - from zero to HERO! Part Three. Advanced level. 1.0
+1090  Guitar Lessons - Two Handed Tapping Essentials 0.5
+1091  Advanced Trumpet Studies - Learn to Master the Trumpet!​ 0.5
+1093  Master the Saxophone: Intermediate Instruction Made Simple! 0.5
+1095  Learn the Violin - Bowing Techniques 0.5
+1096  Play the Jews Harp - instant skills for non musicians. 0.5
+1097  Master Trumpet Playing: Intermediate Instruction Made Simple 0.5
+1098  Play Leyenda, Canarios, and Bach on Classical Guitar 0.5
+1101  Tenor Banjo 0.5
+1102  Introduction to Lead Guitar 0.5
+1104  Master the French Horn: Intermediate Instruction Made Simple 0.5
+1110  Leve a sua técnica de pedal duplo para um novo patamar 0.5
+1119  Guitar Lessons - Sweep Picking Arpeggio Essentials 0.5
+1122  Piano Lesson Variety 0.5
+1124  Starting to play the blues on your harmonica in easy steps  0.5
+1126  Learn to Play 'Let It Snow on Piano" 0.5
+1128  Advanced Saxophone Studies - Learn to Master the Saxophone! 0.5
+1129  Killer Harmonica sounds using the tongue and bending notes  0.5
+1134  Blues Guitar Lessons - Ragtime Blues Guitar 1.0
+1139  Learn Piano Online-Nocturnal Piano Solo 0.5
+1142  Learn Piano Online-In the Garden Piano Solo 0.5
+1146  Tuba Solos: Learn how to Perform Three Fun and Unique Pieces 0.5
+1147  Advanced Oboe Studies - Become a Master Oboist!​ 1.0
+1150  Bluegrass Guitar Essentials: Webisodes 13, 14, & 15 0.5
+1152  Piano With Willie: Jazz Kids - Vol 4 0.5
+1160  Ukulele 3:  Intermediate 0.5
+1165  Fingerpicking Blues Guitar Lessons - Bottleneck Guitar 0.5
+1166  Spice up your playing with some easy Flamenco techniques!  0.5
+1173  Learn to Play Sweet Child of Mine 0.5
+1174  Bluegrass Guitar Essentials: Webisodes 1 & 2 0.5
+1184  How to Play Dan Fogelberg Songs on Guitar 0.5
+1185  Jews Harp - Advanced course 1.0
+1188  Piano With Willie: Piano Chords Vol. 2 0.5
+1195  Learn Oud 2 0.5
+1197  Acoustic Guitar After The Basics 0.5
+1201  Play Autumn Leaves' falling notes on piano with no reading! 0.5
+1208  Projects in HTML5 0.5
+1211  Build Your Own Backend REST API using Django REST Framework 0.5
+1214  Learn by Doing: Vue JS 2.0 the Right Way 0.5
+1220  Build Enterprise Applications with Angular 2 (and Angular 4) 0.5
+1223  Web Development w/ Google’s Go (golang) Programming Language 0.5
+1225  Advanced Javascript 0.5
+1228  Build a Single Page Application with jQuery & AJAX 0.5
+1230  HTML5 Essentials for Beginners 0.5
+1233  Angular 4 Development Decoded 0.5
+1234  Javascript ES6! A Complete Reference Guide to Javascript ES6 0.5
+1235  Reactive JS:  Are you ready for the next big paradigm shift? 0.5
+1238  Become a Full Stack Developer with Spring, AWS and Stripe 0.5
+1239  Complete JQuery And JQuery UI Course For Beginner 0.5
+1240  Learn JavaScript for Web Development 0.5
+1241  Projects in Laravel: Learn Laravel Building 10 Projects 0.5
+1246  Dynamic JavaScript Master Class AJAX JSON Simple APIs 0.5
+1247  Angular NgRx Store Masterclass - Covers Angular 4 0.5
+1251  Learn Angular 2 Development By Building 12 Apps 0.5
+1259  The Complete Web Development Tutorial Using React and Redux 0.5
+1266  Learn XML Crash Course: Discover Essential XML Fundamentals  0.5
+1267  Scrape Websites using PhantomJS and CasperJS 0.5
+1270  AngularJS For ASP.NET MVC Developers 0.5
+1271  Serverless Workflow Management with AWS Step Functions 0.5
+1275  Django Core | A Reference Guide to Core Django Concepts 0.5
+1278  Angular 4 - Concepts, Code and Collective Wisdom 0.5
+1279  Serverless Architecture on Amazon Web Services 0.5
+1285  JavaScript Design Patterns: 20 Patterns for Expert Code 1
+1292  Mastering DevOps 0.5
+1295  A 13 Hour SQL Server 2014 /ASP.NET/CSS/C#/jQuery Course 0.5
+1299  Using Modern JavaScript Today 0.5
+1302  Angular 4: From Theory to Practice & FREE E-Book 0.5
+1312  Mastering CSS 3.0 Selectors 0.5
+1313  WordPress Backup And Restore Fundamentals 0.5
+1316  Professional Rails Code Along 0.5
+1317  Create a MEAN App by Example - Full Stack Course 0.5
+1321  Essential JavaScript, jQuery and AngularJS Training 0.5
+1325  Learning Path: Magento: Master and Test Magento 2 with Ease 1
+1329  WordPress Tips and Tricks 0.5
+1340  ASP.NET Core MVC, Quick and Practical 0.5
+1345  Become a Heroku Rails Ninja: Expert Level Deployment Tools 0.5
+1349  Master Electron: Desktop Apps using HTML, JavaScript & CSS 0.5
+1350  The Advanced Web Developer Course 0.5
+1355  Learn AngularJS Step By Step 0.5
+1363  The Ultimate WordPress Boot Camp: Build 7 Websites 0.5
+1365  Projects In ReactJS - The Complete React Learning Course 0.5
+1369  Spring Core DevOps on AWS 0.5
+1372  Advanced WordPress Topics: Post Types Taxonomies & Metaboxes 0.5
+1374  The Complete TypeScript Programming Guide for Web Developers 0.5
+1375  JavaScript with BackboneJS and Bootstrap CSS - Advanced 0.5
+1378  Java Spring Security 0.5
+1379  ReactJS Course: Learn JavaScript Library Used by Facebook&IG 0.5
+1380  Building a Ruby on Rails Application with Neo4j 0.5
+1384  Django by Example 1
+1385  Mastering TypeScript 1
+1386  Mastering AngularJS UI Development 1
+1396  Learn WCF And Web APIs From Scratch 0.5
+1398  The Complete WordPress Development & Customization Course 1
+1400  Learn jQuery AJAX in 1 hour 0.5
+1413  Learn ASP NET MVC 5 step by step 0.5
+1418  WordPress Theme Academy with Bootstrap 0.5
+1431  Angular 2 Routing: Up And Running 0.5
+1435  Create a Responsive Website with Bootstrap 3 0.5
+1438  Learn Redis from Scratch 0.5
+1441  Mastering CSS 1
+1446  React.js Quickly: Developing Scalable Web User Interfaces 0.5
+1457  Parse Server: From Front End to Full Stack 0.5
+1461  Learn ReactJS: Code Like A Facebook Developer 0.5
+1464  Mastering JavaScript 1
+1482  Create Single Page Website using Twitter Bootstrap 3 0.5
+1484  Advanced Node.js Development 1.0
+1488  Learn Express 0.5
+1489  Improved SEO with Rich Snippets and MicroData 0.5
+1493  Introduction to Elm 0.5
+1494  Learn JSON with JavaScript Objects and APIs in 1 hour 0.5
+1498  Django + AngularJS for a Powerful Web Application 0.5
+1500  Angular 2 + Rails 5 Bootcamp 0.5
+1502  Redux in Angular (2 and 4+) 0.5
+1503  Full stack Universal React with Redux, Node js and MongoDB 0.5
+1513  Learn Reactivex From Ground Up 0.5
+1517  Java Web Services Part 2 0.5
+1518  Master the MEAN Stack - Learn By Example 0.5
+1524  Professional RESTful API Design using Python Flask 0.5
+1527  Accelerated ES6 JavaScript Training 0.5
+1528  Build a Real-world App with ASP.NET Core and Angular 2 (4+) 0.5
+1529  REST APIs with Flask and Python 0.5
+1532  AngularJS For .Net Developers From Scratch 0.5
+1535  Angular Advanced MasterClass & FREE E-Book 0.5
+1536  Build WordPress Plugin to extend Beaver Builder 0.5
+1542  Learn what's new in PHP 7 0.5
+1546  Advanced React and Redux 0.5
+1547  Angular Styling & Animations (for Angular 2 and Angular 4) 0.5
+1548  GraphQL with React: The Complete Developers Guide 0.5
+1553  Big Data and Apache Hadoop for Developers - Fundamentals 0.5
+1555  Learning Path: React: Make Stunning React Websites 1
+1559  Advanced Scalable Python Web Development Using Flask 0.5
+1560  Build a Photo Blog with Ruby on Rails 0.5
+1565  Laravel Deployment - Launch your Laravel Application Online 0.5
+1566  Learn how to create a WordPress theme using Pinegrow 0.5
+1567  How to Safely Copy and Move Your WordPress Website 0.5
+1570  JavaScript For Absolute Beginners - Level Two 0.5
+1580  Complete Web Development with HTML, CSS and Javascript 0.5
+1584  Learning Object-Oriented JavaScript 0.5
+1587  How to Build WordPress Themes: A Web Designer's Guide 0.5
+1590  ES6 / EcmaScript 6 for beginners an introduction 0.5
+1591  Create Complete Web Applications easily with APEX 5 0.5
+1597  Ready for Production with Spring Boot Actuator 0.5
+1598  Learning Path: Akka: Building Applications and Microservices 0.5
+1599  Mastering Meteor: Reactive Full Stack JavaScript 1
+1603  Learning Path: Web Applications with Spring and Angular 1
+1604  Canvas image Creator HTML5 JavaScript project from Scratch 0.5
+1608  Advance Unix : File Processing: AWK | SED | GREP | CUT | VIM 1
+1615  Modern JavaScript: Building Real-World, Real-Time Apps 0.5
+1627  Flask Tutorial Step by Step 0.5
+1632  WordPress Plugins Treasure Chest 0.5
+1635  Professional Web Scraping with Java 0.5
+1636  3D Programming with WebGL and Babylon.js for Beginners 0.5
+1642  Create a social network using PHP Mysqli HTML Css and JQuery 0.5
+1648  Build an Advanced Single Page with Bootstrap & WordPress 0.5
+1652  Create a Client Network by Hosting WordPress Sites 0.5
+1653  Introduction to PHP Slim Microframework 0.5
+1654  WordPress Development With NodeJS, Gulp, Composer & More 0.5
+1661  Professional CSS Flexbox 0.5
+1668  Laravel : CRUD Application Using AJAX In Laravel 5.3 0.5
+1675  Master Riot: Learn Riot.js from Scratch 0.5
+1679  ASP.Net MVC Quick Start 0.5
+1685  Build Complex Express Sites with Redis and Socket IO 0.5
+1686  Building a ASP.NET MVC 5 Membership Website 0.5
+1689  Creating Interactive HTML5 Video 0.5
+1690  Optimizing Wordpress for More Speed and Revenue 0.5
+1693  Quick learning jQuery web development 0.5
+1694  Google Blogger Course 0.5
+1699  Display and analyze GIS data on the web with Leaflet.js 0.5
+1702  Angularjs-WebApi2-EFCodeFirst Web App On 3-Tier Architecture 0.5
+1708  Spring 4 Mastercourse: Covers Annotation & XML Configuration 0.5
+1709  Single Page Application of MVC 5 Using AngularJS 0.5
+1712  Rails Ecommerce App with HTML Template from Themeforest 0.5
+1713  Login and Registration from Scratch with PHP and MySQL 0.5
+1715  Learn Azure Cloud Step by Step 0.5
+1718  Creating Custom Web Maps 0.5
+1719  Build A YouTube Downloader With C# And GitHub 0.5
+1720  HTTP Clients with Laravel: Use and Consume Services and APIs 0.5
+1722  Create Website from scratch in Urdu & Hindi 0.5
+1723  Introduction to Node.js Development 1.0
+1724  Advance JavaScript for Coders: Learn OOP in JavaScript 0.5
+1726  Learn Spring Security 4 Intermediate - Hands On 0.5
+1733  WordPress Development - Themes, Plugins & Single Page Apps 0.5
+1734  create a search engine for your website! 0.5
+1738  Building Responsive Websites with Bootstrap 3 Framework 0.5
+1740  Essentials of Spring 5.0 for Developers 1
+1746  Build A Stock Downloader With Visual Studio 2015 And C# 0.5
+
+is_price_high: 1.0, is_many_subscribers: 0.0, is_many_reviews: 0.0, is_many_lectures: 0.0, level: 0.0, is_content_long: 0.0,
+amount of rows 476
+1  How To Maximize Your Profits Trading Options 1.0
+3  Options Trading 3 : Advanced Stock Profit and Success Method 1.0
+4  Short Selling: Learn To Sell Stocks Before The Fall 0.5
+6  Financial Statements Made Easy 0.5
+8  Create Your Own Hedge Fund: Trade Stocks Like A Fund Manager 1.0
+9  Forex Trading: Your Complete Guide to Get Started Like a Pro 0.5
+10  Python Algo Stock Trading: Automate Your Trading! 0.5
+11  Options Trading Stocks: Proven Toolbox For Financial Success 1.0
+12  Forex Trading A-Z™ - With LIVE Examples of Forex Trading 1.0
+13  Financial Modeling for Startups & Small Businesses 1.0
+14  Options Trading - How to Win with Weekly Options 0.5
+15  How I Learned Stock Trading (and How You Can Too) 1.0
+16  Trading Inside Bars - Master 1 Easy Pattern To Be Successful 0.5
+18  Learn Accounting. Understand Business. 1.0
+19  How to Consistently Win Trading Stocks in 30 Days or Less 0.5
+22  Options Trading Basics (3-Course Bundle) 1.0
+23  Options Trading Introduction: Day Trade Stock Options 0.5
+25  Trading for Beginners - Intermediate Level 0.5
+26  Learn How to Set Up an Incubator Hedge Fund - Step-by-Step 1.0
+28  Basic Excel for Basic Bookkeeping and Accounting 0.5
+29  FOREX Trading with Price Action 1.0
+32  Forex MetaTrader 4: Master MT4 Like A Pro Forex Trader 0.5
+35  Bitcoin Profits for Beginners 0.5
+40  Binary Options: Trading Strategies, 90% Accuracy and Signals 1.0
+41  Stock Market Leverage: How to Start Trading Options Wisely 0.5
+45  Option Spreads and Credit Spreads Bundle 1.0
+46  Stock market Investing Encyclopedia: How to invest in stocks 1.0
+48  Elliott Wave -Forex Trading With The Elliott Wave Theory 0.5
+52  Forex Trading with Fixed 'Risk through Options Trading" 1.0
+53  Intro to Financial Modeling 0.5
+56  SAP FICO For Beginners - A Guide to SAP Financial Accounts 0.5
+58  Accounting Superpowers: Learn Accounts, Understand Business! 1.0
+59  Python Algo Trading: FX Trading with Oanda 1.0
+61  Option Trading for Rookies: The Covered Call Option Strategy 0.5
+63  Basics of Mutual Funds for CA / CMA / CS / CFA Exams 0.5
+64  Accounting 101: How to read an Accounting Balance Sheet 1.0
+66  Trading for everyone - The Independent Investor Course I 0.5
+67  Stock Market investment: Practical Accounting 0.5
+69  Introductory Financial Accounting 0.5
+72  QuickBooks 2015 Training for Newbies 1.0
+73  TRADING PSYCHOLOGY: Trading Mindset Mastery 0.5
+75  Bookkeeping Basics:  Understand the Fundamentals 0.5
+85  Stock Options Trades Using Interactive Brokers 0.5
+86  Trading Seasonal Price Patterns in Stocks, Futures, & Forex! 1.0
+91  Advanced Stock Options for Serious Equity Investors! 1.0
+100  Forex Trading: The High ROI Forex Trading End of Day Course 0.5
+103  The Complete Financial Statement Analysis Course 0.5
+104  Penny Stocks Value & Chart Pattern Trading (2 Course Bundle) 1.0
+105  Candlestick Analysis For Professional Traders 0.5
+107  Stock Market investment:Non financial fundamental analysis 0.5
+111  Bitcoin: el futuro del dinero, hoy 1.0
+118  Stock Market for Beginners - Complete Starter Toolkit 0.5
+129  Mastering Futures Options for Beginners - Your Top 5 Plays! 1.0
+132  My Forex Strategy that win consistently over and over 1.0
+141  Forex Prep Academy for Beginners-Real trades! 0.5
+142  Value Investing For Beginners 0.5
+144  Business finances 0.5
+149  [Value Investing] Where White People Keep Their Money 1.0
+152  Investing in stocks: Avoid stock market loss 0.5
+154  Simple things you must know before start FOREX (OFFER) 1.0
+159  Trading Options Basics 1.0
+164  Coaching Course:Investment Analysis for your clients 1.0
+173  Trading: High-ROI Trading 1.0
+174  Fundraising 101 0.5
+178  Introduction to the economics of public services regulation 0.5
+187  Options Trading Foundation: Your journey to competency... 0.5
+194  How to Build a Massive Retirement Plan from Scratch! 1.0
+196  Trend Following Stocks: A Complete Trading System 0.5
+198  Succeed in Forex Even if You Don't Know Where to Start! 1.0
+199  Using Xero for your bookkeeping needs  do beautiful business 0.5
+201  Internal Controls - Design, Implementation and Monitoring 1.0
+206  Advanced Technical Analysis PART1! 0.5
+212  Intro to Impact Investing 1.0
+217  Smart Trading Techniques for Safe & Consistent Weekly Result 0.5
+221  No Bull Investing: Investing 101 For Financial Freedom 0.5
+231  1 - Concepts of Statistics For Beginners Step by Step 1.0
+232  Strategy layout and Backtesting 1.0
+235  Trading mit kleinen Konten - Grundlagen die du kennen musst 0.5
+244  How I Make Money Writing About Stocks Online 1.0
+248  Win 90% of Trades; Quantitative Investments Models in Excel 1.0
+253  Mergers and Acquisitions M&A Essentials You Need to Know 0.5
+255  Financial Accounting - The Ultimate Beginner Course 0.5
+262  Trading Forex - Trader avec les figures harmoniques 0.5
+266  Day Trading: High ROI Day Trading  0.5
+269  Capital Structuring Techiques for CA / CFA / CPA Exams 0.5
+284  Financial Ratios Using Excel 0.5
+288  The Truths about (in)secure Retirement 1.0
+292  Invest Like a Pro! 1.0
+300  Practical Film Financing: Finding & Pitching Investors 0.5
+302  60 Minutes to Fundamental Accounting Skills 0.5
+307  Hedge Fund Trading Systems Part Two - Stocks & ETFs 1.0
+308  Stock Market Option Trading: How Sell Options For Premium 1.0
+310  Trading: Basics of Trading for Beginners 0.5
+311  Options Spreads Bundle-  the heart of Options Trading 0.5
+312  Basics of Economics For Beginners A to Z - A Complete Course 0.5
+313  Financial Modeling for Professionals in 1 Day! 1.0
+318  Analysis and Evaluation of Economic Feasibility of Projects 0.5
+331  Value Investing and Stock Market Fundamentals 1.0
+343  high swing - كورس لتعليم جميع مراحل احتراف تداول الفوركس 0.5
+347  Teeter-Totter Accounting 0.5
+356  Intermediate Accounting 1: Easy. Fast. Simple! 1.0
+361  Finanzas Personales para Vivir Libre de Deudas 0.5
+385  Beginners Chart Patterns Trading for Penny Stocks 1.0
+405  Forex:Trade Management & Psychology 0.5
+407  How to trade in the Forex market 1.0
+425  Complete GST Course For Small and Medium Enterprises 0.5
+431  Invierte en la Bolsa Mexicana y de USA 1.0
+432  Aprende a invertir sin capital 0.5
+433  Apprendre à trader sur le marché du Forex - guide complet 0.5
+436  Forex para Principiantes-Ejemplos en VIVO de Trading Real 0.5
+438  Introduction to Health Financing 0.5
+441  Managerial Accounting - The Ultimate Beginner Course! 0.5
+442  Forex Trading for Beginners Vol 1:A Forex Course Made Simple 1.0
+445  Forex Basics: Learn how to read and analyze Forex charts 1.0
+451  Inversión: Fundamentos del Trading para Principiantes 0.5
+455  Excelを使ってビジネスシミュレーション：基礎編 0.5
+456  Corporate Ethics 0.5
+458  Understand Core Finance Principles in 60 Minutes 0.5
+462  TRADING FOR A LIVING: Trading Full-Time Transition Guide 1.0
+466  Tax Strategies of the Wealthy 1.0
+467  Trading Robot Forex Programs in Your Sleep in Live Examples! 1.0
+468  An Intro into Trading the Financial Markets 0.5
+473  Banking Credit Analysis Process (for Bankers) 1.0
+487  Introducción al trading de opciones 0.5
+488  Trader sur le Forex avec Ichimoku 0.5
+494  Finance for Non Finance Executives 1.0
+499  Anatomy and Figure Drawing for Beginners 0.5
+500  Create Professional Looking Infographics With No Experience 1.0
+502  Triangulated Bird: Origami Styled Bird in Adobe Illustrator 1.0
+504  Graphic Design Bootcamp 1.0
+505  The Ultimate Drawing Course - Beginner to Advanced 0.5
+506  Ultimate Photoshop Training: From Beginner to Pro 1.0
+507  How to Draw and Sketch for Beginners 0.5
+508  Graphic Design Masterclass: Learn Graphic Design in Projects 0.5
+509  How To Create A Low Poly Portrait With The Pen Tool 1.0
+534  DIY Design Professional Web Banners in Photoshop 4 Beginners 1.0
+535  Photoshop CC for Beginners - A Comprehensive Crash Course 1.0
+543  Most Wanted Flat Design Techniques #2: Hipster Businessman 0.5
+544  Typography 101: Picking the Right Fonts for Business Success 0.5
+550  Learn Blender 3D  - The introduction course 0.5
+551  Become an InDesign Pro in 10 Skills 0.5
+553  LOGO DESIGN IN POWERPOINT 0.5
+562  Getting Started With Photoshop CC 0.5
+566  超基礎！超入門！〜作りながら学ぶ。完全無料3DCGソフトBlender〜 0.5
+567  调色高级讲解 1.0
+568  Curso de Corel Draw: Como Hacer Todo para tu Fiesta Temática 0.5
+576  Adobe Photoshop Essentials: Master Adobe Photoshop CS6 0.5
+577  InDesign: Diseño de proyectos paso a paso 0.5
+580  Illustrator para criação de peças gráficas, Design Gráfico 0.5
+581  Photoshop Workflow - Manipulação de imagem para Publicidade 0.5
+586  Design & Create Vector Graphics With Inkscape 2016 1.0
+588  Learn Photoshop Quickly (For Bloggers & Web Images) 0.5
+589  Photoshop CC 2017 for Beginners: Master Photoshop Essentials 1.0
+595  How To Sell Your Art Online With ETSY 0.5
+596  Photoshop - Tratamento de pele profissional 0.5
+597  Indesign - Para quem quer trabalhar com Design Gráfico 0.5
+600  Photoshop para principiantes: ¡De cero a experto! 0.5
+601  Photoshop Avançado - Pós Produção e fusão com 3D 0.5
+610  Photoshop | GIMP: Quick & Easy Image Hacks for Beginners 0.5
+611  Learn Photoshop CC Essentials 0.5
+613  BUSINESS CARD DESIGN IN POWERPOINT 0.5
+615  FLAT ICON DESIGN IN POWERPOINT 0.5
+620  Blender Modelling Series - Volume Two 0.5
+622  Design bestselling T-shirts from Beginner to Expert. 0.5
+624  App Design + Web Design + Photoshop = Combined Course 0.5
+633  Most Wanted Flat Design Techniques #3: Office Space 0.5
+635  FACEBOOK COVERS IN POWERPOINT 0.5
+637  Adobe Illustrator: Create a Quick & Easy Unique Illustration 0.5
+655  Photoshop - Automatização com Adobe Script 1.0
+658  Formation Photoshop 1.0
+660  Drawing in PowerPoint: Block diagram + Experiments + Cartoon 0.5
+663  Typografie - Die besten Schriftarten im Geschäftsalltag 0.5
+665  Illustrator CC 2016 Power Workshops (Deutsch) 0.5
+675  Bestseller!! Learn Illustrator CC in 1 Hour 1.0
+676  Learn Professional Book-Cover Designing Photoshop 4 Beginner 1.0
+677  Adobe Illustrator: How to Draw Squared Animals Icons 1.0
+678  Book Covers and Graphic Design with PowerPoint 2013/2016/365 1.0
+684  Getting Started with Illustrator CC 0.5
+686  How to Make Your Own Children's Interactive eBook! 0.5
+705  How to Draw Pinups and Sexy Women 0.5
+706  Photoshop CC 2017 Full Course 0.5
+707  How To Become An Etsy Wholesale Seller 0.5
+714  会声会影深度教学 1.0
+732  Create Mobile App Design from Scratch in Photoshop 0.5
+733  Digital Art for Beginners 0.5
+736  Adobe Illustrator CC 2017 for beginners 1.0
+740  Bestseller! Learn Photoshop in 1 Hour (No Experience Needed) 1.0
+741  How To Design A Fortune 500 Logo in Illustrator 1.0
+742  Canva : Book Cover Design 0.5
+750  调色中级课程 1.0
+751  مدخل في أساسيات الفوطوشوب للمبتدئين فقط 0.5
+753  GraphicDesign Studio 0.5
+760  Adobe Illustrator Vectors For Hand Letterers 0.5
+763  LaTeX A-Z: from beginner to advance in less than 3 hour 0.5
+764  Illustrator CC: Design and drawing from scratch to expert! 0.5
+765  Most Wanted Flat Design Techniques 1.0
+769  Making Killer Images in Photoshop that WOW Clients! 0.5
+772  Photoshop　中級者、上級者がプロになるために最後に学ぶ「超絶技巧」テクニック 0.5
+777  Photoshop: Organización de eventos y decoración de fiestas 0.5
+790  Inkscape 101 for Beginners - Design Vector Graphics 1.0
+792  Adobe Photoshop (Complete Beginner) 1.0
+793  Character Design 0.5
+805  Playing Piano:  Popular Pieces Vol. II 0.5
+818  Bass Guitar Lessons For Beginners 0.5
+826  Play Piano To-day! - Beginner Piano Lessons For Busy People! 0.5
+828  World's Fastest Piano Method - The Piano Revolution! 0.5
+837  Learn BASS GUITAR- Have Fun, Amaze Your Friends- It's Easy!  0.5
+838  Playing Piano:  Play Chords and Popular Pieces Vol.I 0.5
+839  Guitar Chord Riot! Learn to Play Guitar Like a Guitar Jedi 0.5
+856  Play Thousands of Songs On The Guitar | Cheater Chords 0.5
+868  Discover Classical Guitar Level 2    0.5
+869  Learn the Violin - No Music Experience Necessary! 0.5
+872  Learn basics of South Indian Carnatic Flute Step by Step  0.5
+877  Classical Guitar Essentials - The Basics Part 2 0.5
+881  Drumming Accelerator: How To Get The Best Start Possible 1.0
+892  Piano: Learn 48 chords in 1 hour,  and always remember how 0.5
+907  101 Blues riffs - learn how the harmonica superstars do it 1.0
+914  Ultimate Beginner Guitar Masterclass 1.0
+915  Learn guitar the Right way! Complete 'KickStarter course" 0.5
+916  Learn to Play Piano From a Concert Pianist - For Beginners 1.0
+917  #12 Hand Coordination: Let your Hands dance with Ballad 9 0.5
+919  Learn How to Improvise on Guitar in 30 Days 1.0
+931  Master Class Piano Techniques: Tips To EZ Coordinate 2 Hands 0.5
+933  Learn to play the piano or keyboard from scratch 0.5
+936  #10 Hand Coordination - Transfer Chord Ballad 9 - C & Bb Key 0.5
+937  Guitar Chord Mastery!Turn Your Brain Into A Chord Encyclopia 1.0
+940  #5  Piano Hand Coordination:  Piano Runs in 2 Beats Eb Key 0.5
+942  Blues Guitar Lessons for Beginners: Chords, Rhythm and Lead 0.5
+943  #4 Piano Hand Coordination: Fun Piano Runs in 2 Beats C Key 0.5
+945  Piano for Singer/Songwriters | Write Songs and Perform Live! 0.5
+949  The Allman Brothers Guitar Roots And Techniques 0.5
+960  Just chords Piano: Learn to Play Piano Quickly - No Music 0.5
+961  Acoustic Blues Guitar Lessons 0.5
+964  Digital Pianist Course-Learn Piano & Keyboard Fast & Easy 0.5
+970  Piano Lessons For Beginners: Learn Piano Quickly And Easily 0.5
+979  Trombone Lessons For Beginners 0.5
+988  Clarinet Lessons For Beginners 0.5
+994  Piano Lessons For Beginners 0.5
+998  Aprendiendo Piano: Tocando piezas populares Vol.I 0.5
+1011  Learn to Play Tarrega, Bach, and Sor on Classical Guitar 1.0
+1014  Acoustic Blues Guitar Lessons 0.5
+1017  Learn the Violin - Scales and Fundamentals 0.5
+1025  Aprenda a tocar Pandeiro - Curso Iniciante - Samba/Choro 0.5
+1032  Super-Curso de Guitarra Práctico Para Principiantes 0.5
+1039  Aprendiendo Piano: Tocando piezas populares Vol.II 0.5
+1040  ABC DO VIOLÃO E GUITARRA 0.5
+1044  Classical Guitar Master Class: 'Alman  " 1.0
+1046  Alto Saxophone Lessons For Beginners 0.5
+1057  Electric Bass Right From The Start 0.5
+1058  Beginner Guitar Essentials 0.5
+1069  Step by Step Classical Guitar Course 0.5
+1075  Acoustic Guitar Lessons For Beginners 0.5
+1077  30 Day Guitar Jump Start for Success 0.5
+1089  Easy Piano for Kids - Complete Beginner Piano Course 0.5
+1095  Learn the Violin - Bowing Techniques 0.5
+1098  Play Leyenda, Canarios, and Bach on Classical Guitar 1.0
+1123  Pop and Jazz Keyboards and Harmony (beginner level) 1.0
+1125  Learn the Viola - Scales and Fundamentals 0.5
+1137  Flute Lessons For Beginners 0.5
+1148  Drum Lessons For Beginners 0.5
+1156  The Music Coach Online Spirit Drum Course 0.5
+1167  Beginners Guide to Playing Guitar - Step-by-step System 0.5
+1179  Spielend Klavier lernen mit Freude und Erfolg 0.5
+1181  Trumpet Lessons For Beginners 0.5
+1183  Beginner Guitar Method 1.0
+1187  Tenor Saxophone Lessons For Beginners 0.5
+1202  Learn Basics of South Indian Carnatic Flute - Level 2 1.0
+1213  Learn JavaScript for beginners 1.0
+1214  Learn by Doing: Vue JS 2.0 the Right Way 0.5
+1218  Ultimate Web Developer Course Build 10 Websites from Scratch 1.0
+1219  Rapid Website Design with Bootstrap 1.0
+1220  Build Enterprise Applications with Angular 2 (and Angular 4) 1.0
+1221  Angular 4 (2+) Crash Course for Beginners 0.5
+1222  Beginner API development in Node, Express, ES6, & MongoDB 0.5
+1224  Git a Web Developer Job: Mastering the Modern Workflow 1.0
+1225  Advanced Javascript 1.0
+1227  The Complete PHP Bootcamp Course With Video Sharing Project 1.0
+1229  Start Writing JavaScript Today - Beginner JavaScript Course 0.5
+1232  Step-by-step HTML and CSS for Absolute Beginners 0.5
+1234  Javascript ES6! A Complete Reference Guide to Javascript ES6 1.0
+1237  1 Hour CSS 0.5
+1238  Become a Full Stack Developer with Spring, AWS and Stripe 0.5
+1239  Complete JQuery And JQuery UI Course For Beginner 0.5
+1240  Learn JavaScript for Web Development 0.5
+1243  PHP: Ultimate guide to PHP for everyone 0.5
+1245  Complete React JS web developer with ES6 - Build 10 projects 1.0
+1246  Dynamic JavaScript Master Class AJAX JSON Simple APIs 1.0
+1247  Angular NgRx Store Masterclass - Covers Angular 4 0.5
+1248  JavaScript the Basics - JavaScript for Beginners 0.5
+1249  Angular 2 & TypeScript Beginner Web Development 1.0
+1250  Beginner Full Stack Web Development: HTML, CSS, React & Node 1.0
+1252  Server API Development in Swift, Kitura, & Bluemix 1.0
+1253  React and Flux Web Development for Beginners 0.5
+1261  HTML & CSS From Scratch in 30 Days 0.5
+1267  Scrape Websites using PhantomJS and CasperJS 1.0
+1272  Learn to use JSON 0.5
+1273  Drupal Tutorial : Drupal 8 Beginner to Expert in 8 PROJECTS 1.0
+1274  Interactive Dynamic JavaScript for beginners DOM 1.0
+1275  Django Core | A Reference Guide to Core Django Concepts 1.0
+1276  Build An Online Bank With Java, Angular 2, Spring and More 1.0
+1277  Modern Web Development with SASS, Gulp, NPM & Web Workflows 0.5
+1281  Discover HTML Essential guide to HTML how to create webpages 0.5
+1282  HTML5 and CSS3 for beginners: Create a Website from Scratch 1.0
+1284  JavaScript Basics Web Development Building Blocks 0.5
+1285  JavaScript Design Patterns: 20 Patterns for Expert Code 0.5
+1286  Fix Google's New 'Not Secure' Warning with Let's Encrypt! 0.5
+1288  Benefits of Thinking Mobile First Future of Website Design 0.5
+1289  Javascript from Beginner to Advanced Level 1.0
+1292  Mastering DevOps 0.5
+1293  Building Websites Create a fully functional Web contact form 1.0
+1294  Create a Dynamic User Registration Form from scratch 0.5
+1296  Python for Beginners: Python Programming Language | Tutorial 0.5
+1298  WordPress Domination #2: Leads & Scarcity 0.5
+1300  Power up HTML5 with JavaScript 0.5
+1302  Angular 4: From Theory to Practice & FREE E-Book 1.0
+1303  The Ultimate Beginner's Guide to Django 1.0
+1304  Back to School Web Development and Programming Bundle 1.0
+1315  1 Hour HTML 1.0
+1319  WP Plugin Development - Build your own plugin! 1.0
+1324  Introduction to HTML5 Canvas basics of drawing 1.0
+1325  Learning Path: Magento: Master and Test Magento 2 with Ease 1.0
+1326  Ruby On Rails For Web Development 1.0
+1328  Become A Web Developer And Seller - Build Websites With HTML 1.0
+1329  WordPress Tips and Tricks 1.0
+1331  CSS and CSS3 For Absolute Beginners 0.5
+1336  Shopping Cart Website from Scratch Ecommerce 1.0
+1343  Wordpress for Non-Technical People 0.5
+1349  Master Electron: Desktop Apps using HTML, JavaScript & CSS 0.5
+1350  The Advanced Web Developer Course 0.5
+1353  Getting started with JavaScript 1.0
+1358  Explore JavaScript Beginners Guide to Coding JavaScript 1.0
+1363  The Ultimate WordPress Boot Camp: Build 7 Websites 0.5
+1366  Beginning Web development Learn the basics of HTML 0.5
+1367  Step by Step Build Your Template by Bootstrap 4 from scratch 0.5
+1369  Spring Core DevOps on AWS 0.5
+1370  How to Create a Website Without Coding - WordPress 2016 1.0
+1372  Advanced WordPress Topics: Post Types Taxonomies & Metaboxes 0.5
+1377  Introduction to web programming for GIS applications 0.5
+1384  Django by Example 0.5
+1385  Mastering TypeScript 0.5
+1386  Mastering AngularJS UI Development 0.5
+1392  Learn React JS from scratch 0.5
+1394  Build a Website in 30 Minutes 0.5
+1397  How To Build A Facebook Messenger Chat Bot From Scratch 0.5
+1398  The Complete WordPress Development & Customization Course 0.5
+1399  HTML CSS Easy steps to create a web template from scratch 1.0
+1400  Learn jQuery AJAX in 1 hour 1.0
+1401  Get to know HTML Learn HTML Basics 1.0
+1402  Build a website HTML5 CSS3 Beginner Course 0.5
+1405  PHP Essential How to create build Amazing websites with PHP 0.5
+1407  Introduction to Node.js for Beginners 0.5
+1409  Angular JS Essentials 1.0
+1411  Web Application Development using Redis, Express, and Socket 1.0
+1416  Ruby on Rails 4---A Test-Driven Approach 0.5
+1423  CSS3 for beginners 1.0
+1424  Javascript for beginners 0.5
+1427  Learn To Program JavaScript (in ten easy steps) 0.5
+1432  1 hour jQuery 0.5
+1436  Complete Guide to Front-End Web Development and Design 1.0
+1441  Mastering CSS 0.5
+1449  JavaScript for beginners with live examples 1.0
+1451  Javascript Specialist 1.0
+1454  VueJS V1 Introduction to VueJS JavaScript Framework 1.0
+1455  HTML CSS: Essential steps to learn HTML CSS 0.5
+1456  Learn HTML 5 in 1 hour 0.5
+1457  Parse Server: From Front End to Full Stack 1.0
+1459  Build a Business or Personal Website Using Wordpress 1.0
+1462  Joomla for Beginners - Learn how to build a website with CMS 0.5
+1464  Mastering JavaScript 0.5
+1466  HTML and CSS for Beginning Web Developers 0.5
+1467  Popular JavaScript Framework:Learn The Language Of Angular 2 1.0
+1469  Web Design How to Create a Website HTML CSS Bootstrap 0.5
+1472  Essentials of JavaScript Practice Coding Exercises Tips 0.5
+1473  Get started Creating Websites Everything you need provided 0.5
+1474  JavaScript in Action JavaScript Projects 0.5
+1475  Programming for Entrepreneurs - JavaScript 1.0
+1476  Create a Website from Scratch using HTML CSS step by step 0.5
+1477  Learn jQuery by Example Course 0.5
+1478  Web Design Creating websites from scratch 0.5
+1480  JavaScript for Beginning Web Developers 0.5
+1492  CSS Specialist: Comprehensive CSS Training 0.5
+1494  Learn JSON with JavaScript Objects and APIs in 1 hour 0.5
+1495  1 Hour JavaScript 1.0
+1496  JavaScript - Become Higly Paid Front End Developer 0.5
+1497  Beginners Introduction to Web Development 1.0
+1498  Django + AngularJS for a Powerful Web Application 0.5
+1499  WordPress Academy: Learn WordPress step by step 0.5
+1500  Angular 2 + Rails 5 Bootcamp 0.5
+1501  Javascript - From Beginner to Pro-Build real world JS apps 1.0
+1503  Full stack Universal React with Redux, Node js and MongoDB 1.0
+1504  Be a Bootstrap Developer from scratch 0.5
+1507  Building HTML5 Canvas projects from scratch 0.5
+1508  Learn How To Become a Web Developer From Scratch 1.0
+1509  Earn Big Profits With Web Development, Simple and Easy! 0.5
+1510  Professional Python Web Development Using Flask 0.5
+1511  Voiceover Audio Secrets - Your Way to Top Audio Quality 1.0
+1518  Master the MEAN Stack - Learn By Example 1.0
+1520  HTML5 and CSS3: Learn Web Design with HTML + CSS + Bootstrap 1.0
+1521  Angular 2+ with Typescript - Essential Training 1.0
+1522  Learn Angular 2 from Beginner to Advanced 1.0
+1524  Professional RESTful API Design using Python Flask 0.5
+1526  Security for your WordPress site 0.5
+1527  Accelerated ES6 JavaScript Training 0.5
+1528  Build a Real-world App with ASP.NET Core and Angular 2 (4+) 1.0
+1529  REST APIs with Flask and Python 0.5
+1530  Build Websites from Scratch with HTML & CSS 0.5
+1535  Angular Advanced MasterClass & FREE E-Book 0.5
+1539  React JS, Angular & Vue JS - Quickstart & Comparison 0.5
+1541  Building Data Visualizations with D3 and Angular 2 0.5
+1545  ES6 Javascript: The Complete Developer's Guide 0.5
+1546  Advanced React and Redux 0.5
+1547  Angular Styling & Animations (for Angular 2 and Angular 4) 0.5
+1548  GraphQL with React: The Complete Developers Guide 0.5
+1555  Learning Path: React: Make Stunning React Websites 1.0
+1557  Introduction to Frontend Web Development For  Beginners 0.5
+1558  JavaScript Complete Guide to learning JavaScript 1.0
+1559  Advanced Scalable Python Web Development Using Flask 0.5
+1563  XML For Absolute Beginners: Learn to create your own tags 0.5
+1577  Docker for Developers - Newest Version 1.12 with Swarm Mode 0.5
+1579  JSON with Java APIs, jQuery and JSON REST Web Services 0.5
+1582  Django For Beginners 1.0
+1583  Introduction to QGIS Python Programming 0.5
+1584  Learning Object-Oriented JavaScript 0.5
+1587  How to Build WordPress Themes: A Web Designer's Guide 0.5
+1589  Python Web Programming 0.5
+1592  Perfect React JS Course - Understand Relevant Details 1.0
+1598  Learning Path: Akka: Building Applications and Microservices 1.0
+1599  Mastering Meteor: Reactive Full Stack JavaScript 0.5
+1600  Introduction to Java Programming for Online Learners 1.0
+1603  Learning Path: Web Applications with Spring and Angular 1.0
+1604  Canvas image Creator HTML5 JavaScript project from Scratch 0.5
+1608  Advance Unix : File Processing: AWK | SED | GREP | CUT | VIM 0.5
+1610  PHP Specialist (2017 Edition) 0.5
+1612  Learn JavaScript Dynamic Interactive Projects for Beginners 0.5
+1613  Build Real World Websites from Scratch using HTML5 and CSS3 1.0
+1614  How to become an App Developer 1.0
+1616  JavaScript Introduction to Object Oriented JavaScript 0.5
+1617  Core HTML How to get online quickly HTML to HTML5  0.5
+1618  Building Websites JavaScript and the DOM 0.5
+1619  HTML5 canvas Bootcamp for beginners 25 easy steps 0.5
+1621  Css For Beginners 0.5
+1626  Create Your Own Successful Online School To Sell Courses 0.5
+1636  3D Programming with WebGL and Babylon.js for Beginners 1.0
+1640  JavaScript for beginners in 1 hour 0.5
+1647  Intro to PHP Web Application Development with Symfony 1.0
+1648  Build an Advanced Single Page with Bootstrap & WordPress 0.5
+1655  How To Create Your Very First Website With HTML and CSS 0.5
+1656  Learn JSON for beginners with JavaScript 1.0
+1657  JQuery Basics - Learn JQuery From Scratch 0.5
+1658  JavaScript Basics for Beginners Introduction to coding 0.5
+1659  HTML5 for beginners 1.0
+1660  JavaScript Promises: Applications in ES6 and AngularJS 0.5
+1665  WordPress for Beginners - Build Your First Website in 2017 0.5
+1675  Master Riot: Learn Riot.js from Scratch 0.5
+1676  Kids Coding -Introduction to HTML, CSS and JavaScript 1.0
+1678  Star Rating Project AJAX with JSON response from PHP MySQL 0.5
+1685  Build Complex Express Sites with Redis and Socket IO 0.5
+1686  Building a ASP.NET MVC 5 Membership Website 0.5
+1687  Drupal Views: Introduction to Enhancing Your Drupal Website 0.5
+1691  JavaScript project Learn to create a memory Game and more 0.5
+1693  Quick learning jQuery web development 0.5
+1698  Learn Spring Security 4 Basics - Hands On 0.5
+1699  Display and analyze GIS data on the web with Leaflet.js 0.5
+1705  Wordpress For Beginners: Create a Professional Website 1.0
+1708  Spring 4 Mastercourse: Covers Annotation & XML Configuration 1.0
+1714  Core Concepts in HTML 5 0.5
+1726  Learn Spring Security 4 Intermediate - Hands On 0.5
+1727  Learning Path: The Road to Elasticsearch 1.0
+1729  Node:js : Building Rest Apis with Sails.js 0.5
+1730  Fundamentals of Angular 2 Full Stack Design 0.5
+1733  WordPress Development - Themes, Plugins & Single Page Apps 0.5
+1737  Learn Web Development by Creating a Social Network 1.0
+1738  Building Responsive Websites with Bootstrap 3 Framework 0.5
+1739  17 Complete JavaScript   projects explained step by step 1.0
+1740  Essentials of Spring 5.0 for Developers 0.5
+1743  Learn HTML5 Canvas for beginners 0.5
+
+is_price_high: 0.0, is_many_subscribers: 0.0, is_many_reviews: 0.0, is_many_lectures: 0.0, level: 0.0, is_content_long: 1.0,
+amount of rows 6
+370  Practical Accounts Training A 0.5
+408  Bookkeeping Practicals with Software 0.5
+743  The Complete Figure Drawing Course HD 1.0
+1218  Ultimate Web Developer Course Build 10 Websites from Scratch 0.5
+1254  The Full Stack Web Development 0.5
+1304  Back to School Web Development and Programming Bundle 0.5
+
+is_price_high: 0.0, is_many_subscribers: 0.0, is_many_reviews: 1.0, is_many_lectures: 0.0, level: 0.0, is_content_long: 0.0,
+amount of rows 11
+12  Forex Trading A-Z™ - With LIVE Examples of Forex Trading 0.5
+38  Stock Market Investing for Beginners 0.5
+55  Accounting in 60 Minutes - A Brief Introduction 0.5
+505  The Ultimate Drawing Course - Beginner to Advanced 0.5
+912  Guitar Super System Level 1 0.5
+1262  Quickstart AngularJS 0.5
+1338  Web Development By Doing: HTML / CSS From Scratch 0.5
+1339  Build Your First Website in 1 Week with HTML5 and CSS3 1.0
+1545  ES6 Javascript: The Complete Developer's Guide 0.5
+1546  Advanced React and Redux 0.5
+1605  Javascript Essentials 1.0
+
+factor creation duration: 248.4252519607544
+
+Process finished with exit code 0
